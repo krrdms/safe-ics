@@ -1,7 +1,6 @@
 from ics import Calendar, Event, Attendee
 
 
-
 def readfile(filename):
     data = open(filename, 'rb')
     c = Calendar(data.read().decode())
