@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20210508T153000Z
+DTEND:20210508T163000Z
+DTSTAMP:20210508T152649Z
+ORGANIZER;CN=jka@ja6.com:mailto:jka@ja6.com
+UID:3rb9m10sk1a3le98gjvnsn7dga@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=jka@ja6.com;X-NUM-GUESTS=0:mailto:jka@ja6.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jadams44@gmu.edu;X-NUM-GUESTS=0:mailto:jadams44@gmu.edu
+X-MICROSOFT-CDO-OWNERAPPTID:23266992
+CREATED:20210508T152649Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a video call.\nJoin: https://meet.google.com/vka-weyk-
+ cdm\n(US) +1 515-599-7408 PIN: 342712237#\n\nView your event at https://cal
+ endar.google.com/calendar/event?action=VIEW&eid=M3JiOW0xMHNrMWEzbGU5OGdqdm5
+ zbjdkZ2EgamFkYW1zNDRAZ211LmVkdQ&tok=MTEjamthQGphNi5jb204Y2M1ZjFiMWJkZDZmZTJ
+ lOTI1ZWZkMjg0MzRmMjc1MDIyYzJiMGNl&ctz=America%2FNew_York&hl=en&es=1.\n-::~:
+ ~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ :~:~::-
+LAST-MODIFIED:20210508T152649Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:test
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
